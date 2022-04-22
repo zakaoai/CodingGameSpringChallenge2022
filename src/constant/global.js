@@ -1,7 +1,9 @@
 export const globalConst = {
   turn: 0,
-  me: {},
-  op: {},
+  me: { heroes: [], base: {} },
+  op: { heroes: [] },
+  monsters: [],
   possibleMoves: [],
-  myTrees: []
+  entitys: [],
+  oldEntitys: []
 };

@@ -10,7 +10,7 @@ Pour pouvoir participer il vous faudra :
 - Les modules complémentaires suivant : [CodinGameSync - Ext](https://chrome.google.com/webstore/detail/codingame-sync-ext/ldjnbdgcceengbjkalemckffhaajkehd?hl=fr) et [CodinGame Sync - App](https://chrome.google.com/webstore/detail/codingame-sync-app/nmdombhgnofjnnaenegcdehnbkajfgbh?hl=fr)
 - Alternative CG-Local-app est une petite application alternative à lancer sur son poste et qui se lie à votre navigateur aussi via un plugin sur Firefox et Chrome [CG-local-app](https://www.codingame.com/forum/t/cg-local/10359)
 - Un compte sur Coding Game
-- S'inscrire sur le lien du [Challenge](https://www.codingame.com/contests/spring-challenge-2021)
+- S'inscrire sur le lien du [Challenge](https://www.codingame.com/contests/spring-challenge-2022)
 - Dans la section [Profil](https://www.codingame.com/profile), veuillez paramétrer l'entreprise et marquer **ACENSI**
 - Votre éditeur de code favoris selon le langage choisi. Conseil [Visual Studio Code](https://code.visualstudio.com/) pour JS.
 
