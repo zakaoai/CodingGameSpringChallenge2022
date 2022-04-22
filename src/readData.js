@@ -29,8 +29,7 @@ function readGameData() {
     const entity = {
       id,
       type,
-      x,
-      y,
+      pos: { x, y },
       shieldLife,
       isControlled,
       health,

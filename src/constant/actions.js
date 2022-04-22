@@ -1,2 +1,3 @@
-const ACTION = "ACTION";
-export default { ACTION };
+const WAIT = "WAIT";
+const MOVE = "MOVE";
+export default { WAIT, MOVE };
